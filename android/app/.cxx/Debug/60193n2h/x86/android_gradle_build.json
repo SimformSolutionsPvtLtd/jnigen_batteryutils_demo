@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/janak/StudioProjects/jingen_batteryutils_demo/src/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/janak/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/janak/StudioProjects/jingen_batteryutils_demo/android/app/.cxx/Debug/60193n2h/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/janak/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/janak/StudioProjects/jingen_batteryutils_demo/android/app/.cxx/Debug/60193n2h/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "battery_utils::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "battery_utils",
+      "output": "/Users/janak/StudioProjects/jingen_batteryutils_demo/build/app/intermediates/cxx/Debug/60193n2h/obj/x86/libbattery_utils.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/janak/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/janak/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

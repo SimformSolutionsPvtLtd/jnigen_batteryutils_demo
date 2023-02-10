@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/janak/StudioProjects/jingen_batteryutils_demo/android/app/.cxx/Debug/60193n2h/arm64-v8a",
+  "command": "/Users/janak/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/janak/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/janak/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDART_SHARED_LIB -Dbattery_utils_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/battery_utils.dir/battery_utils/battery_utils.c.o -c /Users/janak/StudioProjects/jingen_batteryutils_demo/src/battery_utils/battery_utils.c",
+  "file": "/Users/janak/StudioProjects/jingen_batteryutils_demo/src/battery_utils/battery_utils.c"
+}
+]

@@ -1,0 +1,19 @@
+# ninja log v5
+0	56	1676021117	CMakeFiles/battery_utils.dir/battery_utils/battery_utils.c.o	870e18a7c66b9a90
+56	116	1676021117	/Users/janak/StudioProjects/jingen_batteryutils_demo/build/app/intermediates/cxx/Debug/60193n2h/obj/x86_64/libbattery_utils.so	16292ffb47af1cb6
+0	57	1676021859	CMakeFiles/battery_utils.dir/battery_utils/battery_utils.c.o	870e18a7c66b9a90
+57	117	1676021859	/Users/janak/StudioProjects/jingen_batteryutils_demo/build/app/intermediates/cxx/Debug/60193n2h/obj/x86_64/libbattery_utils.so	16292ffb47af1cb6
+0	53	1676022267	CMakeFiles/battery_utils.dir/battery_utils/battery_utils.c.o	870e18a7c66b9a90
+53	109	1676022267	/Users/janak/StudioProjects/jingen_batteryutils_demo/build/app/intermediates/cxx/Debug/60193n2h/obj/x86_64/libbattery_utils.so	16292ffb47af1cb6
+1	59	1676022370	CMakeFiles/battery_utils.dir/battery_utils/battery_utils.c.o	870e18a7c66b9a90
+59	125	1676022370	/Users/janak/StudioProjects/jingen_batteryutils_demo/build/app/intermediates/cxx/Debug/60193n2h/obj/x86_64/libbattery_utils.so	16292ffb47af1cb6
+0	55	1676022863	CMakeFiles/battery_utils.dir/battery_utils.c.o	aa3a5799c0b3123e
+55	117	1676022863	/Users/janak/StudioProjects/jingen_batteryutils_demo/build/app/intermediates/cxx/Debug/60193n2h/obj/x86_64/libbattery_utils.so	c93374ffeeda1f5a
+1	52	1676023287	CMakeFiles/battery_utils.dir/battery_utils.c.o	aa3a5799c0b3123e
+52	108	1676023287	/Users/janak/StudioProjects/jingen_batteryutils_demo/build/app/intermediates/cxx/Debug/60193n2h/obj/x86_64/libbattery_utils.so	c93374ffeeda1f5a
+1	51	1676023398	CMakeFiles/battery_utils.dir/battery_utils.c.o	aa3a5799c0b3123e
+51	106	1676023398	/Users/janak/StudioProjects/jingen_batteryutils_demo/build/app/intermediates/cxx/Debug/60193n2h/obj/x86_64/libbattery_utils.so	c93374ffeeda1f5a
+0	51	1676023677	CMakeFiles/battery_utils.dir/battery_utils.c.o	aa3a5799c0b3123e
+51	106	1676023677	/Users/janak/StudioProjects/jingen_batteryutils_demo/build/app/intermediates/cxx/Debug/60193n2h/obj/x86_64/libbattery_utils.so	c93374ffeeda1f5a
+1	55	1676024005	CMakeFiles/battery_utils.dir/battery_utils/battery_utils.c.o	870e18a7c66b9a90
+56	117	1676024005	/Users/janak/StudioProjects/jingen_batteryutils_demo/build/app/intermediates/cxx/Debug/60193n2h/obj/x86_64/libbattery_utils.so	16292ffb47af1cb6

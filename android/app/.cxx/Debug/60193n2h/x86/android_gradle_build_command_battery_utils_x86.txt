@@ -1,0 +1,7 @@
+Executable : /Users/janak/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/janak/StudioProjects/jingen_batteryutils_demo/android/app/.cxx/Debug/60193n2h/x86
+battery_utils
+jvmArgs : 
+

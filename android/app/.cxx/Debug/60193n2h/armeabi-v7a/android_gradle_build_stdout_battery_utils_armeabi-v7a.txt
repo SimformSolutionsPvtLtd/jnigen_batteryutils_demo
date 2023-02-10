@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/janak/StudioProjects/jingen_batteryutils_demo/android/app/.cxx/Debug/60193n2h/armeabi-v7a'
+[1/2] Building C object CMakeFiles/battery_utils.dir/battery_utils/battery_utils.c.o
+[2/2] Linking C shared library /Users/janak/StudioProjects/jingen_batteryutils_demo/build/app/intermediates/cxx/Debug/60193n2h/obj/armeabi-v7a/libbattery_utils.so
